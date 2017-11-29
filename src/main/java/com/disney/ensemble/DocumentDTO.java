@@ -1,4 +1,4 @@
-package io.sealights.casestudy.disneystudio.ensemble;
+package com.disney.ensemble;
 
 public class DocumentDTO {
 	

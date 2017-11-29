@@ -1,4 +1,4 @@
-package io.sealights.casestudy.disneystudio.ensemble;
+package com.disney.ensemble;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
