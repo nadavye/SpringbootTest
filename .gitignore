@@ -15,5 +15,6 @@ buildNumber.properties
 /.classpath
 .settings
 .project
-
-.idea
+ 
+ #intellij
+ .idea/
