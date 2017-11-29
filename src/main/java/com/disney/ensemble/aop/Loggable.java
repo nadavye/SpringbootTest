@@ -1,4 +1,4 @@
-package com.disney.aop;
+package com.disney.ensemble.aop;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;

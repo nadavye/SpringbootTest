@@ -3,8 +3,10 @@ package com.disney.ensemble;
 import java.util.List;
 import java.util.Arrays;
 
+import com.disney.ensemble.aop.Loggable;
 import org.springframework.stereotype.Service;
 
+//@Component
 @Service
 public class DocumentService {
 	
